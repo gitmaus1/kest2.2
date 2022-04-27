@@ -1,5 +1,5 @@
 # kest2.2
-13.2.3.7 Bitlocker and Bitlocker To Go<br>
+<h1>13.2.3.7 Bitlocker and Bitlocker To Go</h1><br>
 
 
 Why is it important to save a BitLocker recovery key?<br>
@@ -20,7 +20,7 @@ Type your answers here.<br>
 það stjórnar virkni bitlocker<br>
 
 
-
+<h1>13.3.2.5 Configure Windows Local Security Policy</h1><br>
 
 a. According to the security policy in Step 1, how many times is a user allowed to attempt to login before the
 account is locked?<br>
@@ -52,3 +52,37 @@ mere finst að ekki allir ætu að geta conectað við tölvuna over network
 bypass traverse checking allir geta það í defolt það gæti valdið vandamálum <br>
 
 mere finst að mikeð af default stilingum gefi of mikin aðgáng sestaklega fyrir fyrirtæki
+
+
+
+
+
+<h1>13.3.3.6 Configure Users and Groups in Windows</h1><br>
+
+
+
+
+
+b. In the Local Users and Groups Manager, select the Users folder.
+Question:
+What are the names of the accounts listed?<br>
+Type your answers here.<br>
+adfgh, Administrator, aefgrwer, agust, asdf, asdfaf, asdfaf, asdfgh25, assass, ast, DefaultAccount Properties, fhddfhdfh, guest, kytfyuofuti, nafn, nanana, WDAGUtilityAccount Properties
+
+
+
+c. Select the Groups folder. Name five groups from the list.<br>
+Type your answers here.<br>
+
+
+
+
+d. Click the Users folder. Right-click your account and select Properties. Click the Member Of tab.
+Question:
+Which group does your account belong to?
+Type your answers here.
+
+
+
+
+
