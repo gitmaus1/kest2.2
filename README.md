@@ -67,14 +67,14 @@ b. In the Local Users and Groups Manager, select the Users folder.
 Question:
 What are the names of the accounts listed?<br>
 Type your answers here.<br>
-adfgh, Administrator, aefgrwer, agust, asdf, asdfaf, asdfaf, asdfgh25, assass, ast, DefaultAccount Properties, fhddfhdfh, guest, kytfyuofuti, nafn, nanana, WDAGUtilityAccount Properties
+adfgh, Administrator, aefgrwer, agust, asdf, asdfaf, asdfaf, asdfgh25, assass, ast, DefaultAccount Properties, fhddfhdfh, guest, kytfyuofuti, nafn, nanana, WDAGUtilityAccount Properties<br>
 
 
 
 c. Select the Groups folder. Name five groups from the list.<br>
 Type your answers here.<br>
 
-
+Administrators, Guests, Users, Replicator, Power Users<br>
 
 
 d. Click the Users folder. Right-click your account and select Properties. Click the Member Of tab.
