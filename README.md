@@ -48,3 +48,7 @@ Type your answers here.<br>
 
 
 mere finst að ekki allir ætu að geta conectað við tölvuna over network
+
+bypass traverse checking allir geta það í defolt það gæti valdið vandamálum <br>
+
+mere finst að mikeð af default stilingum gefi of mikin aðgáng sestaklega fyrir fyrirtæki
