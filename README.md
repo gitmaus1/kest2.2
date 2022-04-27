@@ -43,3 +43,8 @@ Question:
 Are there any you would recommend changing? Why?<br>
 Type your answers here.<br>
 
+
+
+
+
+mere finst að ekki allir ætu að geta conectað við tölvuna over network
