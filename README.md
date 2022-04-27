@@ -79,10 +79,10 @@ Administrators, Guests, Users, Replicator, Power Users<br>
 
 d. Click the Users folder. Right-click your account and select Properties. Click the Member Of tab.
 Question:
-Which group does your account belong to?
-Type your answers here.
+Which group does your account belong to?<br>
+Type your answers here.<br>
 
-
+Administrators<br>
 
 
 
