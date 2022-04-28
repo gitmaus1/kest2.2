@@ -89,4 +89,29 @@ Question:
 What is Student01 required to do when logging in the first time?<br>
 Type your answers here.<br>
 
-nota passwordið
+nota passwordið ef það er stillt þanig þarf hann að búa til nít password
+
+
+
+Double-click Student01. Unselect the User must change password at next logon.
+Question:
+What group does Student01 belong to?<br>
+Type your answers here.<br>
+
+Users<br>
+
+
+
+f. Click the Groups folder. Double-click the Users group.
+From the description, can the members of the Users group make system wide changes? What can the
+Users group do on the computer?<br>
+Type your answers here.<br>
+
+geta ekki make system wide changes en geta notað flest applications<br>
+
+Who are the group members?<br>
+Type your answers here.<br>
+
+
+asdfgh25, kytfyuofuti, NT AUTHORITY\Authenticated Users (S-1-5-11), NT AUTHORITY\INTERACTIVE (S-1-5-4), Student01
+
