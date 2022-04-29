@@ -241,10 +241,16 @@ no acountið er disabuld<br>
 Type your answers here.<br>
 
 
+bæta ITEStaff í Administrator<br>
+
+
+
+2. How would you deny access to a file for everyone except the owner?<br>
+Type your answers here.<br>
 
 
 
 
-2. How would you deny access to a file for everyone except the owner?
-Type your answers here.
+
+fara í properties og gefa nodenda aðgáng og denya aðgang á alla aðra
 
