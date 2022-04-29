@@ -252,5 +252,5 @@ Type your answers here.<br>
 
 
 
-fara í properties og gefa nodenda aðgáng og denya aðgang á alla aðra
+fara í properties og gefa nodenda aðgáng og denya aðgang á alla aðra<br>
 
